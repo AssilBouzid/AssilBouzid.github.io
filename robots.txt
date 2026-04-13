@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assilbouzid.github.io/sitemap.xml

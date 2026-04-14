@@ -2,6 +2,8 @@
 
 This repository contains the source code of my personal academic website.
 
+[https://assilbouzid.github.io/](https://assilbouzid.github.io/)
+
 The website presents my research activities, publications, projects, teaching and supervision, collaborations, news, and contact information.
 
 It is built as a static website in HTML and CSS and is published with GitHub Pages.
